@@ -1,4 +1,5 @@
 FAKENNACRY V 1.0
+Código basado en el proyecto inicial de https://github.com/gemartin99
 
 -Compilación: gcc -Wextra -Werror -Wall stockholm.c home/infection/stockholm
 
